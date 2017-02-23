@@ -1,1 +1,3 @@
-document.getElementsByTagName('a');
+document.getElementsByTagName('a'); 
+
+getElementById('');
